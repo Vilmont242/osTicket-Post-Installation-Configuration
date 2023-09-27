@@ -29,20 +29,24 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 Roles encompass the permissions allocated to Agents based on the Departments they are authorized to access. Each Role is equipped with a specific set of permissions that can be tailored for a Role within their associated Departments. There is no limit to the number of roles that can be established and assigned to 
 </p>
 <br />
 
+![image](https://github.com/Vilmont242/osTicket-Post-Installation-Configuration/assets/141773682/0181b57b-6d4e-4e0c-92b2-8f737e95eb09)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 Agents are granted access to the help desk platform with the specific purpose of responding to and resolving support tickets. When enrolling a new Agent into the help desk system, it's essential to assign them a Primary Department and designate a Primary Role for handling tickets and tasks directed to that department.
 </p>
 <br />
+
+![image](https://github.com/Vilmont242/osTicket-Post-Installation-Configuration/assets/141773682/f77fd85c-94a6-478d-bb3e-267967d9778e)
 
 <p>
 
