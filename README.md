@@ -8,7 +8,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
+- 
 
 <h2>Environments and Technologies Used</h2>
 
@@ -45,9 +45,10 @@ Agents are granted access to the help desk platform with the specific purpose of
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 <p>
 In osTicket, there's no limit to the number of SLA Plans or Service Level Agreements that can be created. The primary objective of an SLA Plan is to define a specific timeframe within which the help desk Administrator anticipates that tickets should be resolved or closed."
 </p>
 <br />
+
+![image](https://github.com/Vilmont242/osTicket-Post-Installation-Configuration/assets/141773682/e8dc6189-7588-4dd0-8caf-d8490ec42fdb)
